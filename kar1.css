@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+body {
+	color: #000000;
+	font-size: 30px;
+	height: 100vh;
+	background-image: linear-gradient( 135deg, #FFE985 10%, #FA742B 100%);
+}
+.first-sec {
+	color: #ffffff;
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 5px;
+	font-family: "Roboto";
+}
+.primary-title {
+	margin-left: 30px;
+	padding: 10px;
+	/*font-size: 100px;*/
+}
+.secondary-titles {
+	/*text-align: center;*/
+	margin-left: 42%;
+	padding-top: 10px;
+}
+.top-links {
+	margin-left: 20px;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 25px;
+	/*margin-top: 30px;*/
+}
+.main-container {
+	text-align: center;
+	height: 80%;
+	/*background-color: #ffffff;*/
+}
+.main-title {
+	font-size: 50px;
+	font-weight: bold;
+}
+.mybtn {
+	background-color: #47a305;
+	color: #ffffff;
+	border-radius: 25px;
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+	line-height: 35px;
+}
+.mybtn1 {
+	color: #ffffff;
+	font-size: 25px;
+}
+.mydisk{
+	font-size: 30px;
+	display: inline-block;
+	color: #ffa703;
+}
